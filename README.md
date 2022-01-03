@@ -1,2 +1,3 @@
 # Python-for-Data-Analysis
-Pandas、Numpy and IPython
+## 中文书名 《利用Python进行数据分析》
+## English book title 《Python for Data Analysis: Data Wrangling with Pandas,Numpy,and IPython》
